@@ -1,0 +1,5 @@
+habbo=habbo
+
+camera.photo.publishing.enabled=true
+navigator.thumbnail.url_base=http://wpenvios.online/camera/thumbnail/
+stories.image_url_base=http://wpenvios.online/camera
