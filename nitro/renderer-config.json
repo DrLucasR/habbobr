@@ -1,5 +1,5 @@
 {
-    "socket.url": "wss://jogar.habbobr.online:2096",
+    "socket.url": "wss://client.megahotel.top:2096",
     "asset.url": "https://cdn.jsdelivr.net/gh/DrLucasR/habbobr/nitro",
     "flash.asset.url": "https://cdn.jsdelivr.net/gh/DrLucasR/habbobr/flash",
     "image.library.url": "${flash.asset.url}/c_images/",
